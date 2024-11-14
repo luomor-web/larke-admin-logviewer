@@ -1,5 +1,5 @@
 {
-    "name": "larke/log-viewer",
+    "name": "luomor/larke-log-viewer",
     "description": "The log-viewer is a larke-admin'extension.",
     "keywords": [
         "larke",
@@ -9,20 +9,20 @@
         "admin",
         "larke-admin"
     ],
-    "homepage": "https://github.com/deatil/larke-admin-logviewer",
+    "homepage": "https://github.com/luomor-web/larke-admin-logviewer",
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "deatil",
-            "email": "deatil@github.com",
-            "homepage": "https://github.com/deatil",
+            "name": "Peter Zhang",
+            "email": "zhangchunsheng423@gmail.com",
+            "homepage": "https://github.com/zhangchunsheng",
             "role": "Developer"
         }
     ],
     "require": {
         "php": "^8.0",
-        "lake/larke-admin":"^2.0"
+        "luomor/larke-admin":"^1.4"
     },
     "autoload": {
         "psr-4": {
